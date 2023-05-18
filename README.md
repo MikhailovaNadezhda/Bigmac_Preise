@@ -3,30 +3,30 @@
 
 Die Datei im CSV-Format hat die folgende Struktur:
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/efe95f29-7cd9-4357-8d6d-2f1ab4769901)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-18_12h16_27.png)
 
 
 Das Projekt ist mit Python geschrieben. Beim Starten des Projekts öffnet sich ein Tkinter-Fenster:
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/a3787558-de4d-4825-9c97-5728c1beaa87)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-17_14h13_25.png)
 
 Der Benutzer kann das Jahr auswählen, für das Preisinformationen angezeigt werden sollen:
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/ab0ea06e-fd08-4341-a259-5537357cd0ed)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-17_14h15_59.png)
 
 und erhalten Sie eine Karte mit markierten Markierungen:
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/f3b4eaea-3f8d-45ee-933c-0d9615f8cf92)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-17_14h17_22.png)
 
 Der Einfachheit halber können Sie das Bild vergrößern:
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/5312f53b-5f69-4087-a473-4031db6765dc)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-17_14h19_29.png)
 
 Es ist auch möglich, ein Histogramm für das ausgewählte Jahr zu erstellen. Dies kann durch Drücken der grünen Statistik-button erfolgen
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/2a94de62-3a8f-4c2c-8c5f-1a169dd30ba5)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-17_14h21_47.png)
 
 Es öffnet sich ein neues Fenster mit einem Balkendiagramm:
 
-![image](https://github.com/MikhailovaNadezhda/test/assets/131007593/bba84975-2d40-477a-9218-f8f12cd7c950)
+![image](https://github.com/MikhailovaNadezhda/Bigmac_Preise/blob/main/2023-05-17_14h23_26.png)
 
